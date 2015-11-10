@@ -1,6 +1,6 @@
 # CitiSENSR
 
-Objective:
+<b>Objective:</b>
 This project aims to develop a mobile environmental monitoring platform using Arduino (open-source prototyping platform) and commercially available air pollution and meteorology monitoring devices.
  
 Motivation: 
@@ -9,9 +9,7 @@ It all came naturally from my own needs to develop a custom datalogger to connec
 Devices used: 
 DataLogger: Arduino YUN and Arduin Uno
 Portable monitoring devices:
-  > INNOVATION + ENTREPRENEURSHIP
-BikePed Analytics
- 
+
 Objective:
 This project is a collaboration with UCLA and Placemeter (TM) to apply and validate computer-vision technology to detect and quantify pedestrians, bicyclists, and vehicles using IP and surveillance cameras.
  
